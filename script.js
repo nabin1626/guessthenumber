@@ -82,6 +82,7 @@ function newGame(){
         remaining.innerHTML = 10-numGuess
         playGame = true;
         srtGameBtn.style.display="none"
+        message.innerHTML=""
     })
 }
 function endGame(){

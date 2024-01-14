@@ -1,0 +1,25 @@
+@media (max-width: 400px){
+    #main{
+        width: 300px;
+    }
+    #input-field{
+        height: 50px;
+        width: 100%;
+        border-radius: 8px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    #heading{
+        font-size: 23px;
+        text-align: center;
+    }
+    #copy-rights{
+        text-align: center;
+        font-size: 15px;
+        margin: 0;
+        color: rgba(255, 255, 255, 0.2);
+    }
+    #main{
+        height: 420px;
+    }
+}
